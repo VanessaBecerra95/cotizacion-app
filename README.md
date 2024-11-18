@@ -45,7 +45,7 @@ DB_USERNAME=tu_usuario
 DB_PASSWORD=tu_contraseña
 ```
 
-### 2. Ejecutar Migraciones y seeders
+### 3. Ejecutar Migraciones y seeders
 ```bash
 php artisan migrate
 php artisan db:seed
